@@ -1,0 +1,8 @@
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.4
+soundfile>=0.12        # WAV/FLAC reading (falls back to scipy for plain WAV)
+tensorflow>=2.15       # YAMNet inference (CPU is fine)
+tensorflow-hub>=0.16   # only used by the one-time `fetch-model` step
+sounddevice>=0.4       # live microphone input (needs PortAudio)
+pytest>=8              # tests

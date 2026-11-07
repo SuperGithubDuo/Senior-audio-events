@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.cache/
+/data/
+/models/
+out/
+reports/
+logs/
+node_modules/
+*.npz

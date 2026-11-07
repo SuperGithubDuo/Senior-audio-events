@@ -1,0 +1,4 @@
+file,recording_id,speaker_id,room_id
+audio/room00_spk00_take0.wav,rec_r0_s0,spk00,room00
+audio/room00_spk00_take1.wav,rec_r0_s1,spk00,room00
+audio/room00_spk00_take2.wav,rec_r0_s2,spk00,room00
